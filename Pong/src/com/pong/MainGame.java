@@ -14,7 +14,7 @@ import javax.swing.JFrame;
 public class MainGame extends Canvas implements Runnable, KeyListener {
 
 	/**
-	 * ygihoho     hhhoh
+	 * ygihoho      hhhoh
 	 */
 	private static final long serialVersionUID = 1L;
 	public static int width = 188, height = 242;
